@@ -27,22 +27,22 @@ CS undergrad at VIT Chennai working across applied ML research, AI agent systems
 | Project | What it is | Key Tech | Signal |
 |---|---|---|---|
 | **AdaLoRA** | PEFT method for LLM fine-tuning applied to medical summarization | Flan-T5-Base, PyTorch | Built under a next-day deadline with a live demo |
-| **Plot Price Prediction** | ML model for predicting land plot prices | — | — |
+| **Plot Price Prediction** | ML model for predicting land plot prices | Pandas, Linear Regression | Open Source |
 
 ### ◆ AI Agents & Products
 
 | Project | What it is | Key Tech | Signal |
 |---|---|---|---|
 | **Klyve** | AI-powered multi-agent motion graphics pipeline. Template-constrained generation — LLM outputs are validated as JSON props against a Zod schema, never free-form code | Next.js, Claude API, Remotion Lambda, S3/R2 | Ranked #36 · Product Hunt · 23 upvotes |
-| **Lexdesk** | AI agent built for lawyers to streamline their workflow | — | Open-source |
-| **Elder Call Agent** | Recurring AI phone agent that calls elderly parents on behalf of busy working professionals, speaking as their kids would; flags real concerns to family | — | Hackathon winner |
-| **Finora** | AI-powered smart wallet for tracking expenditures | — | Open-source |
+| **Lexdesk** | AI agent built for lawyers to streamline their workflow | LangChain | Open-source |
+| **Elder Call Agent** | Recurring AI phone agent that calls elderly parents on behalf of busy working professionals, speaking as their kids would; flags real concerns to family | LangChain | Hackathon winner |
+| **Finora** | AI-powered smart wallet for tracking expenditures | Node.Js | Open-source |
 
 ### ◆ Web3
 
 | Project | What it is | Key Tech | Signal |
 |---|---|---|---|
-| **Influencity** | Web3 platform for influencer marketing with escrow payments and milestone-based payment releases | — | Open-source |
+| **Influencity** | Web3 platform for influencer marketing with escrow payments and milestone-based payment releases | Solidity, Base | Open-source |
 
 ### ◆ Full-Stack · Dev Tools
 
