@@ -2,7 +2,7 @@
 
 # GOKULAKRISHNAN JAWAHAR
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+Researcher;Ranked+%2336+on+Product+Hunt;Solo+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+Researcher;Ranked+%2319+on+Product+Hunt;Solo+Developer" alt="Typing SVG" />
 
 `B.Tech CSE @ VIT Chennai '28` · `Building Klyve` · `Researching AdaLoRA`
 
