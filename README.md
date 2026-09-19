@@ -1,23 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Gokulakrishnan%20J&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Solo%20Developer%20%C2%B7%20ML%20Researcher%20%C2%B7%20Builder&descAlignY=58&descSize=20&descColor=7EE787" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A1A&height=230&section=header&text=Gokulakrishnan%20Jawahar&fontSize=42&fontColor=F5F5F5&fontAlignY=36&desc=Solo%20Developer%20%C2%B7%20ML%20Researcher%20%C2%B7%20Builder&descAlignY=58&descSize=20&descColor=B0B0B0" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=50&lines=Building+Klyve+%E2%80%94+AI+Motion+Graphics+SaaS;Building+Influencity+%E2%80%94+Decentralized+Influencer+Protocol;Ranked+%2336+on+Product+Hunt;Open+to+Freelance+AI+%2B+Web+Engagements" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&height=50&lines=Building+Klyve+%E2%80%94+AI+Motion+Graphics+SaaS;Building+Influencity+%E2%80%94+Decentralized+Influencer+Marketing;Ranked+%2336+on+Product+Hunt;Open+to+Freelance+AI+%2B+Web+Engagements" alt="Typing SVG" />
 
 <br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=gokulakrishnanj&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/gokulakrishnanj?style=for-the-badge&color=7EE787&labelColor=161B22)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-brightgreen?style=for-the-badge&labelColor=161B22)
 
 </div>
 
@@ -240,9 +229,6 @@ User Input (brand + text)
    ├── Jun – Jul   VVDN Technologies, Chennai
    │               Web Development (backend focus)
    │
-   ├── Present     Lead, Blockchain & Cybersecurity Dept.
-   │               Open Source Programming Club, VIT Chennai
-   │
 2025 ─────────────────────────────────────────────────────
    │
    ├── Apr – May   Blockchain Department Lead
@@ -312,27 +298,6 @@ User Input (brand + text)
 <br/>
 
 ---
-## Skill Proficiency
-
-<div align="center">
-
-| Skill | Level |
-|---|---|
-| TypeScript / JavaScript | ![](https://progress-bar.dev/90/?width=200&color=58A6FF) |
-| React / Next.js | ![](https://progress-bar.dev/88/?width=200&color=58A6FF) |
-| Python | ![](https://progress-bar.dev/75/?width=200&color=7EE787) |
-| AWS (Lambda, S3, IAM) | ![](https://progress-bar.dev/78/?width=200&color=FF9900) |
-| Solidity / Smart Contracts | ![](https://progress-bar.dev/65/?width=200&color=A78BFA) |
-| Remotion / Video Pipelines | ![](https://progress-bar.dev/85/?width=200&color=7EE787) |
-| PostgreSQL / Prisma | ![](https://progress-bar.dev/80/?width=200&color=4169E1) |
-| PyTorch / ML | ![](https://progress-bar.dev/55/?width=200&color=EE4C2C) |
-| LangChain / LangGraph | ![](https://progress-bar.dev/40/?width=200&color=1C3C3C) |
-
-</div>
-
-<br/>
-
----
 ## Milestones
 
 <div align="center">
@@ -343,7 +308,6 @@ User Input (brand + text)
  Shipped Influencity's escrow + milestone-release logic on Polygon
  Designed and ran production AWS infra (Lambda, S3, IAM) for Klyve solo
  Backend web development internship — VVDN Technologies
-  Blockchain & Cybersecurity Lead — Open Source Programming Club, VIT Chennai
 ```
 
 </div>
